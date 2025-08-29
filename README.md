@@ -1,16 +1,23 @@
 ## Hi there 👋
 
 <!--
-**salisu2009/salisu2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & DevOps Engineer | Just starting my career journey
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ Tech Stack
+     IaC: Terraform
+     Cloud: AWS
+     Version Control: Git
+-    🔭 Projects
+     Terraform VPC Project - Built AWS VPC infrastructure using Terraform
+-🌱 Expanding Skills In
+    Docker & Kubernetes
+    CI/CD Pipelines
+    AWS Certifications
+- 🎯 Goals
+     Master cloud architecture
+     Land my first DevOps role
+     Contribute to open-source proje
+- 🤝 Let's Connect!
+     📧 fearlessk540@gmail.com
+- 💡 Learning, building, growing in the cloud!
